@@ -1,0 +1,1489 @@
+{
+ "name": "Barbara E. Jones, MD, MSCI",
+ "department": "Internal Medicine, Division of Pulmonary, Critical Care and Occupational Pulmonary Medicine",
+ "affiliations": [
+  "University of Utah",
+  "VA Salt Lake City Health Care System"
+ ],
+ "sources": [
+  "https://openalex.org/A5001548889",
+  "https://orcid.org/0000-0002-0971-6887",
+  "PubMed: Jones BE[Author] AND (Utah OR Salt Lake OR Intermountain)",
+  "NIH RePORTER (PI name search)",
+  "https://medicine.utah.edu/internal-medicine/pulmonary/news/2020/11/dr-barbara-jones-awarded-grant-gordon-and-betty-moore"
+ ],
+ "openalex": {
+  "profile_url": "https://openalex.org/A5001548889",
+  "orcid": "https://orcid.org/0000-0002-0971-6887",
+  "h_index": 31,
+  "retrieved": "2026-11-17"
+ },
+ "papers": [
+  {
+   "title": "Multicenter Evaluation of the BioFire FilmArray Pneumonia/Pneumonia Plus Panel for Detection and Quantification of Agents of Lower Respiratory Tract Infection",
+   "authors": "CN Murphy, RC Fowler, J Balada-Llasat, A Carroll, H Stone, O Akerele, ..., KM Bourzac",
+   "year": 2020,
+   "venue": "Journal of Clinical Microbiology",
+   "citations": 291,
+   "pmid": "32350043",
+   "doi": "10.1128/jcm.00128-20",
+   "url": "https://doi.org/10.1128/jcm.00128-20",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Diagnosis and Management of Community-acquired Pneumonia. An Official American Thoracic Society Clinical Practice Guideline",
+   "authors": "BE Jones, JA Ramírez, E Oren, NJ Soni, LR Sullivan, MI Restrepo, ..., KC Wilson",
+   "year": 2025,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 180,
+   "pmid": "40679934",
+   "doi": "10.1164/rccm.202507-1692st",
+   "url": "https://doi.org/10.1164/rccm.202507-1692st",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Mortality, morbidity, and disease severity of patients with aspiration pneumonia",
+   "authors": "MJ Lanspa, BE Jones, SM Brown, NC Dean",
+   "year": 2012,
+   "venue": "Journal of Hospital Medicine",
+   "citations": 156,
+   "pmid": "23184866",
+   "doi": "10.1002/jhm.1996",
+   "url": "https://doi.org/10.1002/jhm.1996",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Empirical Anti-MRSA vs Standard Antibiotic Therapy and Risk of 30-Day Mortality in Patients Hospitalized for Pneumonia",
+   "authors": "BE Jones, J Ying, VW Stevens, CL Haroldsen, T He, MR Nevers, ..., MH Samore",
+   "year": 2020,
+   "venue": "JAMA Internal Medicine",
+   "citations": 131,
+   "pmid": "32065604",
+   "doi": "10.1001/jamainternmed.2019.7495",
+   "url": "https://doi.org/10.1001/jamainternmed.2019.7495",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Validation of the Infectious Disease Society of America/American Thoracic Society 2007 guidelines for severe community-acquired pneumonia*",
+   "authors": "SM Brown, BE Jones, AR Jephson, NC Dean",
+   "year": 2009,
+   "venue": "Critical Care Medicine",
+   "citations": 126,
+   "pmid": "19789456",
+   "doi": "10.1097/ccm.0b013e3181b030d9",
+   "url": "https://doi.org/10.1097/ccm.0b013e3181b030d9",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Short-Term Air Pollution and Incident Pneumonia. A Case–Crossover Study",
+   "authors": "C Pirozzi, BE Jones, JA VanDerslice, Y Zhang, R Paine, NC Dean",
+   "year": 2017,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 126,
+   "pmid": "29283681",
+   "doi": "10.1513/annalsats.201706-495oc",
+   "url": "https://doi.org/10.1513/annalsats.201706-495oc",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Variation in Outpatient Antibiotic Prescribing for Acute Respiratory Infections in the Veteran Population: A Cross-sectional Study",
+   "authors": "BE Jones, BC Sauer, M Jones, J Campo, K Damal, T He, ..., MH Samore",
+   "year": 2015,
+   "venue": "Annals of Internal Medicine",
+   "citations": 124,
+   "pmid": "26192562",
+   "doi": "10.7326/m14-1933",
+   "url": "https://doi.org/10.7326/m14-1933",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Impact of an Electronic Clinical Decision Support Tool for Emergency Department Patients With Pneumonia",
+   "authors": "NC Dean, BE Jones, JP Jones, JP Ferraro, H Post, D Aronsky, ..., PJ Haug",
+   "year": 2015,
+   "venue": "Annals of Emergency Medicine",
+   "citations": 110,
+   "pmid": "25725592",
+   "doi": "10.1016/j.annemergmed.2015.02.003",
+   "url": "https://doi.org/10.1016/j.annemergmed.2015.02.003",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Dexamethasone in hospitalised COVID-19 patients not on intensive respiratory support",
+   "authors": "KA Crothers, R DeFaccio, J Tate, PR Alba, MB Goetz, BE Jones, ..., KM Akgün",
+   "year": 2021,
+   "venue": "European Respiratory Journal",
+   "citations": 106,
+   "pmid": "34824060",
+   "doi": "10.1183/13993003.02532-2021",
+   "url": "https://doi.org/10.1183/13993003.02532-2021",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Immunocompromised Host Pneumonia: Definitions and Diagnostic Criteria: An Official American Thoracic Society Workshop Report",
+   "authors": "G Cheng, KA Crothers, S Aliberti, A Bergeron, M Boeckh, JW Chien, ..., SE Evans",
+   "year": 2023,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 103,
+   "pmid": "36856712",
+   "doi": "10.1513/annalsats.202212-1019st",
+   "url": "https://doi.org/10.1513/annalsats.202212-1019st",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "CURB-65 Pneumonia Severity Assessment Adapted for Electronic Decision Support",
+   "authors": "BE Jones, JP Jones, TA Bewick, WS Lim, D Aronsky, SM Brown, ..., NC Dean",
+   "year": 2010,
+   "venue": "CHEST Journal",
+   "citations": 95,
+   "pmid": "21163875",
+   "doi": "10.1378/chest.10-1296",
+   "url": "https://doi.org/10.1378/chest.10-1296",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Pleural Effusions at First ED Encounter Predict Worse Clinical Outcomes in Patients With Pneumonia",
+   "authors": "NC Dean, P Griffith, JS Sorensen, LM McCauley, BE Jones, G Lee",
+   "year": 2016,
+   "venue": "CHEST Journal",
+   "citations": 95,
+   "pmid": "26836918",
+   "doi": "10.1016/j.chest.2015.12.027",
+   "url": "https://doi.org/10.1016/j.chest.2015.12.027",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Hospital Admission Decision for Patients With Community-Acquired Pneumonia: Variability Among Physicians in an Emergency Department",
+   "authors": "NC Dean, JP Jones, D Aronsky, SM Brown, CG Vines, BE Jones, T Allen",
+   "year": 2011,
+   "venue": "Annals of Emergency Medicine",
+   "citations": 91,
+   "pmid": "21907451",
+   "doi": "10.1016/j.annemergmed.2011.07.032",
+   "url": "https://doi.org/10.1016/j.annemergmed.2011.07.032",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Trends in Antibiotic Use and Nosocomial Pathogens in Hospitalized Veterans With Pneumonia at 128 Medical Centers, 2006–2010",
+   "authors": "BE Jones, M Jones, BD Huttner, GJ Stoddard, KA Brown, VW Stevens, ..., M Samore",
+   "year": 2015,
+   "venue": "Clinical Infectious Diseases",
+   "citations": 90,
+   "pmid": "26223995",
+   "doi": "10.1093/cid/civ629",
+   "url": "https://doi.org/10.1093/cid/civ629",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Nonventilator hospital-acquired pneumonia: A call to action",
+   "authors": "S Munro, DL Baker, KK Giuliano, SC Sullivan, J Haber, BE Jones, ..., M Klompas",
+   "year": 2021,
+   "venue": "Infection Control and Hospital Epidemiology",
+   "citations": 67,
+   "pmid": "34103108",
+   "doi": "10.1017/ice.2021.239",
+   "url": "https://doi.org/10.1017/ice.2021.239",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Understanding the Host in the Management of Pneumonia. An Official American Thoracic Society Workshop Report",
+   "authors": "CSD Cruz, SE Evans, MI Restrepo, NC Dean, A Torres, I Amara‐Elori, ..., RG Wunderink",
+   "year": 2021,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 62,
+   "pmid": "34242148",
+   "doi": "10.1513/annalsats.202102-209st",
+   "url": "https://doi.org/10.1513/annalsats.202102-209st",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Incidence and Outcomes of Non–Ventilator-Associated Hospital-Acquired Pneumonia in 284 US Hospitals Using Electronic Surveillance Criteria",
+   "authors": "BE Jones, AL Sarvet, J Ying, R Jin, MR Nevers, SE Stern, ..., M Klompas",
+   "year": 2023,
+   "venue": "JAMA Network Open",
+   "citations": 62,
+   "pmid": "37200031",
+   "doi": "10.1001/jamanetworkopen.2023.14185",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2023.14185",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Accuracy of PaO 2 / FiO 2 calculated from SpO 2 for severity assessment in ED patients with pneumonia",
+   "authors": "F Sanz, NC Dean, J Dickerson, BE Jones, D Knox, E Fernández‐Fabrellas, ..., J Blanquer",
+   "year": 2015,
+   "venue": "Respirology",
+   "citations": 60,
+   "pmid": "25998684",
+   "doi": "10.1111/resp.12560",
+   "url": "https://doi.org/10.1111/resp.12560",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Positive Predictive Value of COVID-19 ICD-10 Diagnosis Codes Across Calendar Time and Clinical Setting",
+   "authors": "KE Lynch, B Viernes, E Gatsby, SL DuVall, BE Jones, TL Box, ..., M Jones",
+   "year": 2021,
+   "venue": "Clinical Epidemiology",
+   "citations": 50,
+   "pmid": "34737645",
+   "doi": "10.2147/clep.s335621",
+   "url": "https://doi.org/10.2147/clep.s335621",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Development and Validation of a Natural Language Processing Tool to Identify Patients Treated for Pneumonia across VA Emergency Departments",
+   "authors": "BE Jones, BC South, Y Shao, C Lu, J Leng, BC Sauer, ..., Q Zeng",
+   "year": 2018,
+   "venue": "Applied Clinical Informatics",
+   "citations": 44,
+   "pmid": "29466818",
+   "doi": "10.1055/s-0038-1626725",
+   "url": "https://doi.org/10.1055/s-0038-1626725",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "CDS in a Learning Health Care System: Identifying Physicians' Reasons for Rejection of Best-Practice Recommendations in Pneumonia through Computerized Clinical Decision Support",
+   "authors": "BE Jones, DS Collingridge, CG Vines, H Post, JR Holmen, T Allen, ..., NC Dean",
+   "year": 2019,
+   "venue": "Applied Clinical Informatics",
+   "citations": 37,
+   "pmid": "30602195",
+   "doi": "10.1055/s-0038-1676587",
+   "url": "https://doi.org/10.1055/s-0038-1676587",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Disparities in COVID-19 related outcomes in the United States by race and ethnicity pre-vaccination era: an umbrella review of meta-analyses",
+   "authors": "KNC Duong, LM Le, SK Veettil, P Saidoung, W Wannaadisai, RE Nelson, ..., N Chaiyakunapruk",
+   "year": 2023,
+   "venue": "Frontiers in Public Health",
+   "citations": 37,
+   "pmid": "37744476",
+   "doi": "10.3389/fpubh.2023.1206988",
+   "url": "https://doi.org/10.3389/fpubh.2023.1206988",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Antimicrobial de-escalation of treatment for healthcare-associated pneumonia within the Veterans Healthcare Administration",
+   "authors": "K Madaras‐Kelly, M Jones, RE Remington, C Caplinger, BD Huttner, BE Jones, MH Samore",
+   "year": 2015,
+   "venue": "Journal of Antimicrobial Chemotherapy",
+   "citations": 36,
+   "pmid": "26538501",
+   "doi": "10.1093/jac/dkv338",
+   "url": "https://doi.org/10.1093/jac/dkv338",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "ReHouSED: A novel measurement of Veteran housing stability using natural language processing",
+   "authors": "AB Chapman, AL Jones, AT Kelley, BE Jones, LM Gawron, AE Montgomery, ..., RE Nelson",
+   "year": 2021,
+   "venue": "Journal of Biomedical Informatics",
+   "citations": 36,
+   "pmid": "34474188",
+   "doi": "10.1016/j.jbi.2021.103903",
+   "url": "https://doi.org/10.1016/j.jbi.2021.103903",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Diagnostic Discordance, Uncertainty, and Treatment Ambiguity in Community-Acquired Pneumonia: A National Cohort Study of 115 U.S. Veterans Affairs Hospitals",
+   "authors": "BE Jones, AB Chapman, J Ying, ED Rutter, MR Nevers, A Baker, ..., JM Butler",
+   "year": 2024,
+   "venue": "Annals of Internal Medicine",
+   "citations": 35,
+   "pmid": "39102729",
+   "doi": "10.7326/m23-2505",
+   "url": "https://doi.org/10.7326/m23-2505",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Feeling and thinking: can theories of human motivation explain how EHR design impacts clinician burnout?",
+   "authors": "CR Weir, PA Taber, T Taft, TJ Reese, BE Jones, GD Fiol",
+   "year": 2020,
+   "venue": "Journal of the American Medical Informatics Association",
+   "citations": 33,
+   "pmid": "33179026",
+   "doi": "10.1093/jamia/ocaa270",
+   "url": "https://doi.org/10.1093/jamia/ocaa270",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Management of High Altitude Pulmonary Edema in the Himalaya: A Review of 56 Cases Presenting at Pheriche Medical Aid Post (4240 m)",
+   "authors": "BE Jones, S Stokes, S McKenzie, EJ Nilles, GJ Stoddard",
+   "year": 2012,
+   "venue": "Wilderness and Environmental Medicine",
+   "citations": 33,
+   "pmid": "23062320",
+   "doi": "10.1016/j.wem.2012.07.004",
+   "url": "https://doi.org/10.1016/j.wem.2012.07.004",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Variation in Empiric Coverage Versus Detection of Methicillin-ResistantStaphylococcus aureusandPseudomonas aeruginosain Hospitalizations for Community-Onset Pneumonia Across 128 US Veterans Affairs Medical Centers",
+   "authors": "BE Jones, KA Brown, M Jones, BD Huttner, T Greene, BC Sauer, ..., MH Samore",
+   "year": 2017,
+   "venue": "Infection Control and Hospital Epidemiology",
+   "citations": 33,
+   "pmid": "28633678",
+   "doi": "10.1017/ice.2017.98",
+   "url": "https://doi.org/10.1017/ice.2017.98",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Late Mortality After COVID-19 Infection Among US Veterans vs Risk-Matched Comparators: A 2-Year Cohort Analysis",
+   "authors": "TJ Iwashyna, SM Seelye, TSZ Berkowitz, JA Pura, ASB Bohnert, CB Bowling, ..., W Showalter",
+   "year": 2023,
+   "venue": "JAMA Internal Medicine",
+   "citations": 32,
+   "pmid": "37603339",
+   "doi": "10.1001/jamainternmed.2023.3587",
+   "url": "https://doi.org/10.1001/jamainternmed.2023.3587",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Respiratory Health Benefits and Risks of Living at Moderate Altitude",
+   "authors": "CK Grissom, BE Jones",
+   "year": 2017,
+   "venue": "High Altitude Medicine & Biology",
+   "citations": 31,
+   "pmid": "28375663",
+   "doi": "10.1089/ham.2016.0142",
+   "url": "https://doi.org/10.1089/ham.2016.0142",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Postinfectious Pulmonary Complications: Establishing Research Priorities to Advance the Field: An Official American Thoracic Society Workshop Report",
+   "authors": "SC Auld, A Sheshadri, JM Alexander‐Brett, Y Aschner, AK Barczak, MC Basil, ..., SE Evans",
+   "year": 2024,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 29,
+   "pmid": "39051991",
+   "doi": "10.1513/annalsats.202406-651st",
+   "url": "https://doi.org/10.1513/annalsats.202406-651st",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Development and evaluation of an interoperable natural language processing system for identifying pneumonia across clinical settings of care and institutions",
+   "authors": "AB Chapman, K Peterson, ED Rutter, MR Nevers, M Zhang, J Ying, ..., BE Jones",
+   "year": 2022,
+   "venue": "JAMIA Open",
+   "citations": 28,
+   "pmid": "36601365",
+   "doi": "10.1093/jamiaopen/ooac114",
+   "url": "https://doi.org/10.1093/jamiaopen/ooac114",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Empiric antibiotic selection and risk prediction of drug-resistant pathogens in community-onset pneumonia",
+   "authors": "BJ Webb, BE Jones, NC Dean",
+   "year": 2016,
+   "venue": "Current Opinion in Infectious Diseases",
+   "citations": 26,
+   "pmid": "26886179",
+   "doi": "10.1097/qco.0000000000000254",
+   "url": "https://doi.org/10.1097/qco.0000000000000254",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Relationships among initial hospital triage, disease progression and mortality in community‐acquired pneumonia",
+   "authors": "SM Brown, JP Jones, D Aronsky, BE Jones, MJ Lanspa, NC Dean",
+   "year": 2012,
+   "venue": "Respirology",
+   "citations": 26,
+   "pmid": "22805170",
+   "doi": "10.1111/j.1440-1843.2012.02225.x",
+   "url": "https://doi.org/10.1111/j.1440-1843.2012.02225.x",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Performance and Utilization of an Emergency Department Electronic Screening Tool for Pneumonia",
+   "authors": "NC Dean, BE Jones, JP Ferraro, CG Vines, PJ Haug",
+   "year": 2013,
+   "venue": "JAMA Internal Medicine",
+   "citations": 25,
+   "pmid": "23552868",
+   "doi": "10.1001/jamainternmed.2013.3299",
+   "url": "https://doi.org/10.1001/jamainternmed.2013.3299",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Advances in community-acquired pneumonia",
+   "authors": "BE Jones, GW WATERER",
+   "year": 2020,
+   "venue": "Therapeutic Advances in Infectious Disease",
+   "citations": 24,
+   "pmid": "33224494",
+   "doi": "10.1177/2049936120969607",
+   "url": "https://doi.org/10.1177/2049936120969607",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Angiotensin II receptor blocker or angiotensin-converting enzyme inhibitor use and COVID-19-related outcomes among US Veterans",
+   "authors": "CG Derington, JB Cohen, AF Mohanty, T Greene, JR Cook, J Ying, ..., AP Bress",
+   "year": 2021,
+   "venue": "PLoS ONE",
+   "citations": 23,
+   "pmid": "33891615",
+   "doi": "10.1371/journal.pone.0248080",
+   "url": "https://doi.org/10.1371/journal.pone.0248080",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Potential Impact of Hospital-acquired Pneumonia Guidelines on Empiric Antibiotics. An Evaluation of 113 Veterans Affairs Medical Centers",
+   "authors": "AD Bostwick, BE Jones, R Paine, MB Goetz, MH Samore, M Jones",
+   "year": 2019,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 23,
+   "pmid": "31385720",
+   "doi": "10.1513/annalsats.201902-162oc",
+   "url": "https://doi.org/10.1513/annalsats.201902-162oc",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Computerized Mortality Prediction for Community-acquired Pneumonia at 117 Veterans Affairs Medical Centers",
+   "authors": "BE Jones, J Ying, MR Nevers, PR Alba, T He, OV Patterson, ..., T Greene",
+   "year": 2021,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 23,
+   "pmid": "33635750",
+   "doi": "10.1513/annalsats.202011-1372oc",
+   "url": "https://doi.org/10.1513/annalsats.202011-1372oc",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Summary for Clinicians: Clinical Practice Guideline for the Diagnosis and Treatment of Community-acquired Pneumonia",
+   "authors": "BE Jones, DD Herman, CSD Cruz, GW WATERER, JP Metlay, JK Ruminjo, CC Thomson",
+   "year": 2019,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 21,
+   "pmid": "31770496",
+   "doi": "10.1513/annalsats.201909-704cme",
+   "url": "https://doi.org/10.1513/annalsats.201909-704cme",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Admission Decisions and Outcomes of Community-Acquired Pneumonia in the Homeless Population: A Review of 172 Patients in an Urban Setting",
+   "authors": "BE Jones, AV Gundlapalli, JP Jones, SM Brown, NC Dean",
+   "year": 2013,
+   "venue": "American Journal of Public Health",
+   "citations": 20,
+   "pmid": "24148050",
+   "doi": "10.2105/ajph.2013.301342",
+   "url": "https://doi.org/10.2105/ajph.2013.301342",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Changes in Outpatient Health Care Use After COVID-19 Infection Among Veterans",
+   "authors": "PL Hebert, KE Kumbier, VA Smith, DM Hynes, DJ Govier, ES Wong, ..., SD Saini",
+   "year": 2024,
+   "venue": "JAMA Network Open",
+   "citations": 19,
+   "pmid": "38334995",
+   "doi": "10.1001/jamanetworkopen.2023.55387",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2023.55387",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Performance of an NLP Tool to extract PFT reports from Structured and Semi-Structured VA data",
+   "authors": "BC Sauer, BE Jones, GA Globe, J Leng, C Lu, T He, ..., QT Zeng",
+   "year": 2016,
+   "venue": "eGEMs (Generating Evidence & Methods to improve patient outcomes)",
+   "citations": 19,
+   "pmid": "27376095",
+   "doi": "10.13063/2327-9214.1217",
+   "url": "https://doi.org/10.13063/2327-9214.1217",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Electronic surveillance criteria for non–ventilator-associated hospital-acquired pneumonia: Assessment of reliability and validity",
+   "authors": "SE Stern, MA Christensen, MR Nevers, J Ying, CS McKenna, S Munro, ..., BE Jones",
+   "year": 2023,
+   "venue": "Infection Control and Hospital Epidemiology",
+   "citations": 16,
+   "pmid": "36920040",
+   "doi": "10.1017/ice.2022.302",
+   "url": "https://doi.org/10.1017/ice.2022.302",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "In Data We Trust? Comparison of Electronic Versus Manual Abstraction of Antimicrobial Prescribing Quality Metrics for Hospitalized Veterans With Pneumonia",
+   "authors": "BE Jones, CL Haroldsen, K Madaras‐Kelly, MB Goetz, J Ying, BC Sauer, ..., MH Samore",
+   "year": 2018,
+   "venue": "Medical Care",
+   "citations": 16,
+   "pmid": "29668648",
+   "doi": "10.1097/mlr.0000000000000916",
+   "url": "https://doi.org/10.1097/mlr.0000000000000916",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Deploying an Electronic Clinical Decision Support Tool for Diagnosis and Treatment of Pneumonia Into Rural and Critical Access Hospitals: Utilization, Effect on Processes of Care, and Clinician Satisfaction",
+   "authors": "JR Carr, BE Jones, DS Collingridge, BJ Webb, CG Vines, B Zobell, ..., NC Dean",
+   "year": 2020,
+   "venue": "The Journal of Rural Health",
+   "citations": 16,
+   "pmid": "33244803",
+   "doi": "10.1111/jrh.12543",
+   "url": "https://doi.org/10.1111/jrh.12543",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Prolonged SARS-CoV-2 Illness in a Patient Receiving Ocrelizumab for Multiple Sclerosis",
+   "authors": "EG Gibson, M Pender, M Angerbauer, C Cook, BE Jones, AM Spivak, ..., S Swaminathan",
+   "year": 2021,
+   "venue": "Open Forum Infectious Diseases",
+   "citations": 16,
+   "pmid": "34258310",
+   "doi": "10.1093/ofid/ofab176",
+   "url": "https://doi.org/10.1093/ofid/ofab176",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Validating hospital admission criteria for decision support in pneumonia",
+   "authors": "BE Jones, JP Jones, CG Vines, NC Dean",
+   "year": 2014,
+   "venue": "BMC Pulmonary Medicine",
+   "citations": 16,
+   "pmid": "25244961",
+   "doi": "10.1186/1471-2466-14-149",
+   "url": "https://doi.org/10.1186/1471-2466-14-149",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Validation of the SHEA/IDSA severity criteria to predict poor outcomes among inpatients and outpatients with Clostridioides difficile infection",
+   "authors": "VW Stevens, HE Shoemaker, M Jones, BE Jones, RE Nelson, K Khader, ..., MA Rubin",
+   "year": 2020,
+   "venue": "Infection Control and Hospital Epidemiology",
+   "citations": 13,
+   "pmid": "31996280",
+   "doi": "10.1017/ice.2020.8",
+   "url": "https://doi.org/10.1017/ice.2020.8",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Implementation of Real-Time Electronic Clinical Decision Support for Emergency Department Patients with Pneumonia Across a Healthcare System.",
+   "authors": "NC Dean, CG Vines, J Rubin, DS Collingridge, M Mankivsky, R Srivastava, ..., PJ Haug",
+   "year": 2019,
+   "venue": "PubMed",
+   "citations": 12,
+   "pmid": "32308828",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32308828",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Trends in Illness Severity, Hospitalization, and Mortality for Community-Onset Pneumonia at 118 US Veterans Affairs Medical Centers",
+   "authors": "BE Jones, J Ying, MR Nevers, PR Alba, OV Patterson, K Peterson, ..., T Greene",
+   "year": 2022,
+   "venue": "Journal of General Internal Medicine",
+   "citations": 9,
+   "pmid": "35266121",
+   "doi": "10.1007/s11606-022-07413-8",
+   "url": "https://doi.org/10.1007/s11606-022-07413-8",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Antibiotic Overuse: Clinicians Are the Solution",
+   "authors": "BE Jones, MH Samore",
+   "year": 2017,
+   "venue": "Annals of Internal Medicine",
+   "citations": 8,
+   "pmid": "28492844",
+   "doi": "10.7326/m17-1061",
+   "url": "https://doi.org/10.7326/m17-1061",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Pneumonia diagnosis performance in the emergency department: a mixed-methods study about clinicians’ experiences and exploration of individual differences and response to diagnostic performance feedback",
+   "authors": "JM Butler, T Taft, PA Taber, ED Rutter, M Fix, A Baker, ..., BE Jones",
+   "year": 2024,
+   "venue": "Journal of the American Medical Informatics Association",
+   "citations": 7,
+   "pmid": "38796835",
+   "doi": "10.1093/jamia/ocae112",
+   "url": "https://doi.org/10.1093/jamia/ocae112",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "ICU Utilization After Implementation of Minor Severe Pneumonia Criteria in Real-Time Electronic Clinical Decision Support",
+   "authors": "JR Carr, D Knox, AM Butler, MM Lum, JR Jacobs, AR Jephson, ..., NC Dean",
+   "year": 2023,
+   "venue": "Critical Care Medicine",
+   "citations": 6,
+   "pmid": "38157205",
+   "doi": "10.1097/ccm.0000000000006163",
+   "url": "https://doi.org/10.1097/ccm.0000000000006163",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Simulated Adoption of 2019 Community-Acquired Pneumonia Guidelines Across 114 Veterans Affairs Medical Centers: Estimated Impact on Culturing and Antibiotic Selection in Hospitalized Patients",
+   "authors": "MA Christensen, MR Nevers, J Ying, CL Haroldsen, VW Stevens, M Jones, ..., BE Jones",
+   "year": 2020,
+   "venue": "Clinical Infectious Diseases",
+   "citations": 5,
+   "pmid": "33512530",
+   "doi": "10.1093/cid/ciaa1604",
+   "url": "https://doi.org/10.1093/cid/ciaa1604",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Hospital admission decisions for older Veterans with community‐onset pneumonia: An analysis of 118 U.S. Veterans Affairs Medical Centers",
+   "authors": "BE Jones, J Ying, MR Nevers, ED Rutter, AB Chapman, RJ Brenner, ..., T Greene",
+   "year": 2023,
+   "venue": "Academic Emergency Medicine",
+   "citations": 4,
+   "pmid": "36625235",
+   "doi": "10.1111/acem.14655",
+   "url": "https://doi.org/10.1111/acem.14655",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "The social experience of uncertainty: a qualitative analysis of emergency department care for suspected pneumonia for the design of decision support",
+   "authors": "PA Taber, CR Weir, SL Zickmund, ED Rutter, JM Butler, BE Jones",
+   "year": 2024,
+   "venue": "BMC Medical Informatics and Decision Making",
+   "citations": 4,
+   "pmid": "39695584",
+   "doi": "10.1186/s12911-024-02805-8",
+   "url": "https://doi.org/10.1186/s12911-024-02805-8",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Automating detection of diagnostic error of infectious diseases using machine learning",
+   "authors": "K Peterson, AB Chapman, W Widanagamaachchi, JD Sutton, B Ochoa, BE Jones, ..., M Jones",
+   "year": 2024,
+   "venue": "PLOS Digital Health",
+   "citations": 4,
+   "pmid": "38848317",
+   "doi": "10.1371/journal.pdig.0000528",
+   "url": "https://doi.org/10.1371/journal.pdig.0000528",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Evaluating the impact of an oral care initiative on the risk of non-ventilator-associated hospital-acquired pneumonia using electronic clinical data and diagnostic coding surveillance criteria",
+   "authors": "BE Jones, AB Chapman, J Ying, MR Nevers, S Munro, M Klompas, ..., DO Scharfstein",
+   "year": 2025,
+   "venue": "Infection Control and Hospital Epidemiology",
+   "citations": 3,
+   "pmid": "41088741",
+   "doi": "10.1017/ice.2025.54",
+   "url": "https://doi.org/10.1017/ice.2025.54",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Diagnosis and Treatment of Pneumonia in Urgent Care Clinics: Opportunities for Improving Care",
+   "authors": "JH Hart, T Sakata, JR Eve, AM Butler, A Wallin, C Carman, ..., NC Dean",
+   "year": 2024,
+   "venue": "Open Forum Infectious Diseases",
+   "citations": 3,
+   "pmid": "38456194",
+   "doi": "10.1093/ofid/ofae096",
+   "url": "https://doi.org/10.1093/ofid/ofae096",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Performance Of A Real-Time Electronic Screening Tool For Pneumonia",
+   "authors": "BE Jones, JP Ferraro, PJ Haug, K Mynam, H Post, Y Li, ..., NC Dean",
+   "year": 2012,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 3,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2012.185.1_meetingabstracts.a5136",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2012.185.1_meetingabstracts.a5136",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Calculating PaO2/FiO2 From SpO2 In Emergency Department Patients With Pneumonia; Comparison Of The Severinghaus And Rice Equations In A Utah Population",
+   "authors": "NC Dean, JP Jones, FS Herrero, AR Jephson, SM Brown, BE Jones, CG Vines",
+   "year": 2012,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 3,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2012.185.1_meetingabstracts.a1806",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2012.185.1_meetingabstracts.a1806",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "COUNTERPOINT: Should Multiplex Molecular Panels Be Performed on All Patients With Community Acquired Pneumonia? No",
+   "authors": "BE Jones",
+   "year": 2025,
+   "venue": "CHEST Journal",
+   "citations": 3,
+   "pmid": "39794071",
+   "doi": "10.1016/j.chest.2024.08.051",
+   "url": "https://doi.org/10.1016/j.chest.2024.08.051",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "COVID-19 Vaccine Rollout Strategies in Utah from Local Health Departments’ Perspectives: A Qualitative Analysis of Focus Group Discussions",
+   "authors": "KNC Duong, SK Veettil, RE Nelson, BE Jones, AT Pavia, DT Nguyen, ..., N Chaiyakunapruk",
+   "year": 2025,
+   "venue": "Health Equity",
+   "citations": 2,
+   "pmid": "40718150",
+   "doi": "10.1089/heq.2024.0067",
+   "url": "https://doi.org/10.1089/heq.2024.0067",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Early Outcomes of SARS-CoV-2 Infection in a Multisite Prospective Cohort of Inpatient Veterans",
+   "authors": "JM Ross, JD Sugimoto, AKI Timmons, J Adams, KV Deardoff, AM Korpak, ..., MC Eastment",
+   "year": 2023,
+   "venue": "Open Forum Infectious Diseases",
+   "citations": 2,
+   "pmid": "37484899",
+   "doi": "10.1093/ofid/ofad330",
+   "url": "https://doi.org/10.1093/ofid/ofad330",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Regional variation in financial hardship among US veterans during the COVID-19 pandemic",
+   "authors": "KE Hauschildt, DP Bui, DJ Govier, TL Eaton, EM Viglianti, CK Ettman, ..., EJ Boyko",
+   "year": 2024,
+   "venue": "Health Affairs Scholar",
+   "citations": 2,
+   "pmid": "38938272",
+   "doi": "10.1093/haschl/qxae075",
+   "url": "https://doi.org/10.1093/haschl/qxae075",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Reaching Consensus on Long COVID Symptoms and Patient-Reported Outcomes Across the Veterans Health Administration Using a Modified Hybrid Nominal Group-Delphi Approach",
+   "authors": "AE Schlak, I Seidel, O Awan, J Neal, M Rao, K Janssen, ..., PL Wander",
+   "year": 2025,
+   "venue": "Medical Care",
+   "citations": 1,
+   "pmid": "41081723",
+   "doi": "10.1097/mlr.0000000000002194",
+   "url": "https://doi.org/10.1097/mlr.0000000000002194",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Natural Language Processing in Clinical Quality Measures of Diagnostic Performance: Learnings from Three Case Reports",
+   "authors": "AT Evans, ML Eastman, PC Dykes, BE Jones, J Sather, J Geppert",
+   "year": 2026,
+   "venue": "The Joint Commission Journal on Quality and Patient Safety",
+   "citations": 1,
+   "pmid": "41775594",
+   "doi": "10.1016/j.jcjq.2026.01.005",
+   "url": "https://doi.org/10.1016/j.jcjq.2026.01.005",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Balance Versus Bias: Correcting Misinformation About the 2025 American Thoracic Society Community-Acquired Pneumonia Guidelines",
+   "authors": "JA Ramirez, BE Jones, E Oren, NJ Soni, MI Restrepo, DM Musher, ..., KC Wilson",
+   "year": 2026,
+   "venue": "Clinical Infectious Diseases",
+   "citations": 1,
+   "pmid": "41787921",
+   "doi": "10.1093/cid/ciag153",
+   "url": "https://doi.org/10.1093/cid/ciag153",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Capsule Commentary on Sanz et al., A Composite of Functional Status and Pneumonia Severity Index Improves the Prediction of Pneumonia Mortality in Older Patients",
+   "authors": "BE Jones",
+   "year": 2018,
+   "venue": "Journal of General Internal Medicine",
+   "citations": 1,
+   "pmid": "29392594",
+   "doi": "10.1007/s11606-017-4293-6",
+   "url": "https://doi.org/10.1007/s11606-017-4293-6",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Topic-to-Topic Modeling for COVID-19 Mortality",
+   "authors": "J Humpherys, AS Halwani, BE Jones, M Jones, MH Samore, S Mahmood, D Sanders",
+   "year": 2021,
+   "venue": "IEEE International Conference on Healthcare Informatics (ICHI)",
+   "citations": 1,
+   "pmid": "",
+   "doi": "10.1109/ichi52183.2021.00048",
+   "url": "https://doi.org/10.1109/ichi52183.2021.00048",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Is COVID-19 Care Better in Veterans Health Administration Hospitals,Ceteris Paribus?",
+   "authors": "M Klompas, BE Jones",
+   "year": 2023,
+   "venue": "JAMA Network Open",
+   "citations": 1,
+   "pmid": "37252744",
+   "doi": "10.1001/jamanetworkopen.2023.15829",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2023.15829",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Validation Of Ecurb In Community-Acquired Pneumonia: Which Gold Standard Are We Talking About?",
+   "authors": "F Sanz, NC Dean, JP Jones, BE Jones, E Fernández‐Fabrellas, Á Cervera, ..., J Blanquer",
+   "year": 2011,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 1,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a4846",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a4846",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Pneumonia and Electronic Health Records—A Window Into Disease, A Mirror of Our Behavior, or Just Another Streetlight?",
+   "authors": "BE Jones, M Jones",
+   "year": 2019,
+   "venue": "Clinical Infectious Diseases",
+   "citations": 1,
+   "pmid": "31665250",
+   "doi": "10.1093/cid/ciz1053",
+   "url": "https://doi.org/10.1093/cid/ciz1053",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Effectiveness of mobile vaccine clinics on COVID-19 vaccination uptake in the USA: an observational study",
+   "authors": "KNC Duong, Y Zhang, RE Nelson, AT Pavia, BE Jones, DT Nguyen, ..., N Chaiyakunapruk",
+   "year": 2026,
+   "venue": "BMJ Public Health",
+   "citations": 1,
+   "pmid": "41948182",
+   "doi": "10.1136/bmjph-2025-003369",
+   "url": "https://doi.org/10.1136/bmjph-2025-003369",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Health, economic, and equity impact of a COVID-19 mobile vaccine clinic program in US: a cost-effectiveness analysis",
+   "authors": "KNC Duong, DJA Toth, DT Nguyen, Y Zhang, R Nelson, AT Pavia, ..., N Chaiyakunapruk",
+   "year": 2026,
+   "venue": "The Lancet Regional Health - Americas",
+   "citations": 1,
+   "pmid": "42125731",
+   "doi": "10.1016/j.lana.2026.101488",
+   "url": "https://doi.org/10.1016/j.lana.2026.101488",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Classifying Supporting, Refuting, or Uncertain Evidence for Pneumonia Case Review",
+   "authors": "BR South, H Kramer, BE Jones, M Tharp, WW Chapman",
+   "year": 2015,
+   "venue": "Online Journal of Public Health Informatics",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.5210/ojphi.v7i1.5721",
+   "url": "https://doi.org/10.5210/ojphi.v7i1.5721",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Is area under receiver operator characteristic curve the best way of comparing severity assessment tools for patients with community-acquired pneumonia?",
+   "authors": "SM Brown, NC Dean, BE Jones, AR Jephson",
+   "year": 2010,
+   "venue": "Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1097/ccm.0b013e3181d8be5d",
+   "url": "https://doi.org/10.1097/ccm.0b013e3181d8be5d",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Patients Designated As Aspiration Pneumonia Have Higher Illness Severity Than Typical Community-Acquired Pneumonia",
+   "authors": "MJ Lanspa, SM Brown, Y Li, AR Jephson, BE Jones, NC Dean",
+   "year": 2011,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a4841",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a4841",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "De-escalation of Antimicrobial Treatment of Healthcare-Associated Pneumonia Within the Veterans Healthcare System",
+   "authors": "K Madaras‐Kelly, M Jones, RE Remington, C Caplinger, BD Huttner, BE Jones, MH Samore",
+   "year": 2015,
+   "venue": "Open Forum Infectious Diseases",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1093/ofid/ofv133.72",
+   "url": "https://doi.org/10.1093/ofid/ofv133.72",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Community-Acquired Pneumonia In The Homeless Population: A Review Of 172 Patients",
+   "authors": "BE Jones, JP Jones, SM Brown, AR Jephson, AV Gundlapalli, NC Dean",
+   "year": 2012,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2012.185.1_meetingabstracts.a1801",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2012.185.1_meetingabstracts.a1801",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Ecurb Severity Assessment Tool Accurately Predicts 30-Day Mortality In Elderly Patients With Community-Acquired Pneumonia",
+   "authors": "BE Jones, SM Brown, JM Jones, Y Li, NC Dean, AR Jephson",
+   "year": 2011,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a4847",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2011.183.1_meetingabstracts.a4847",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Extending an Uncertainty Taxonomy for Suspected Pneumonia Case Review",
+   "authors": "BR South, H Kramer, M Castine, DL Mowery, BE Jones, WW Chapman",
+   "year": 2016,
+   "venue": "Online Journal of Public Health Informatics",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.5210/ojphi.v8i1.6454",
+   "url": "https://doi.org/10.5210/ojphi.v8i1.6454",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Implementation of Electronic Clinical Decision Support for Pneumonia Patients Across 17 Intermountain Emergency Departments",
+   "authors": "NC Dean, BE Jones, J Rubin, CG Vines, TL Allen, R Srivistava, BJ Webb",
+   "year": 2019,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a6220",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a6220",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Benefit Versus Harm of Empiric Anti-MRSA Therapy in Hospitalized Patients with Pneumonia",
+   "authors": "BE Jones, J Ying, VW Stevens, T He, BC Sauer, AD Bostwick, ..., T Greene",
+   "year": 2019,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a4224",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a4224",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Where's the Sweet Spot? Exploring the Impact of Varying Antibiogram Thresholds to Guide Broad-Spectrum Antibiotic Use in Hospital Acquired Pneumonia",
+   "authors": "AD Bostwick, BE Jones, MB Goetz, MH Samore, R Paine, M Jones",
+   "year": 2019,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a4225",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a4225",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Potential Impact of 2019 Community Acquired Pneumonia Guidelines on Culturing and Antibiotic Selection: An Analysis of 114 VA Medical Centers",
+   "authors": "MA Christensen, BE Jones, CL Haroldsen, MR Nevers, VW Stevens, M Jones, MH Samore",
+   "year": 2020,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a6231",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2020.201.1_meetingabstracts.a6231",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Surveillance and Outcomes for Non-Ventilator Hospital-Acquired Pneumonia Events Using Structured Electronic Clinical Data",
+   "authors": "S Stern, MR Nevers, Y Jian, MA Christensen, A Ochoa, C Rhee, ..., M Klompas",
+   "year": 2021,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2021.203.1_meetingabstracts.a1679",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2021.203.1_meetingabstracts.a1679",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "What Happens Next? Long-Term Post-ICU Outcomes from 119 VA Medical Intensive Care Units: Clarifying the Unknown",
+   "authors": "S Stern, MR Nevers, J Ying, RJ Brenner, MA Christensen, BE Jones",
+   "year": 2022,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm-conference.2022.205.1_meetingabstracts.a2269",
+   "url": "https://doi.org/10.1164/ajrccm-conference.2022.205.1_meetingabstracts.a2269",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "A Linguistic Analysis Examining the Impact of COVID-19 on Pneumonia Diagnosis and Disease Models",
+   "authors": "AB Chapman, K Peterson, ED Rutter, MR Nevers, J Ying, DC Classen, ..., BE Jones",
+   "year": 2024,
+   "venue": "Studies in health technology and informatics",
+   "citations": 0,
+   "pmid": "38269688",
+   "doi": "10.3233/shti231236",
+   "url": "https://doi.org/10.3233/shti231236",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Annals On Call - The Challenge of Diagnosing Community-Acquired Pneumonia",
+   "authors": "RM Centor, BE Jones",
+   "year": 2024,
+   "venue": "Annals of Internal Medicine",
+   "citations": 0,
+   "pmid": "39348693",
+   "doi": "10.7326/annals-24-02748-oc",
+   "url": "https://doi.org/10.7326/annals-24-02748-oc",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Rebuttal From Dr Jones",
+   "authors": "BE Jones",
+   "year": 2025,
+   "venue": "CHEST Journal",
+   "citations": 0,
+   "pmid": "39794075",
+   "doi": "10.1016/j.chest.2024.08.053",
+   "url": "https://doi.org/10.1016/j.chest.2024.08.053",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Occam's Razor Versus Hickam's Dictum: Exploring the Meaning of Viral Pathogens to Patient Factors, Outcomes, and Prediction of Bacterial Infection in Patients Presenting With Community-acquired Pneumonia at 134 VA Emergency Departments",
+   "authors": "TR Ju, J Ying, D Eddington, MR Nevers, ED Rutter, DO Scharfstein, BE Jones",
+   "year": 2025,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm.2025.211.abstracts.a7073",
+   "url": "https://doi.org/10.1164/ajrccm.2025.211.abstracts.a7073",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Changing Approaches to Antibiotics in Community-acquired Pneumonia: A Mixed-methods Analysis of Veteran Affairs Medical Centers",
+   "authors": "TR Ju, C Zhang, MR Nevers, J Ying, E Rutter, CR Weir, ..., BE Jones",
+   "year": 2025,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "",
+   "doi": "10.1164/ajrccm.2025.211.abstracts.a7462",
+   "url": "https://doi.org/10.1164/ajrccm.2025.211.abstracts.a7462",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "Illness Experiences of Veterans Reporting Long-Term Symptoms or Health Challenges from COVID-19: Results from the VA COVID-19 Observational Research Collaboratory",
+   "authors": "AM O’Hare, K Montague, DM Hynes, A Fox, V Nye, TJ Iwashyna, ..., SM Nugent",
+   "year": 2025,
+   "venue": "Journal of General Internal Medicine",
+   "citations": 0,
+   "pmid": "41326934",
+   "doi": "10.1007/s11606-025-09910-y",
+   "url": "https://doi.org/10.1007/s11606-025-09910-y",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "The 2025 CAP Controversy: Why Guideline Methodology Matters for Clinical Decision-Making",
+   "authors": "BD Bissell, BE Jones, BL Erstad, KC Wilson",
+   "year": 2026,
+   "venue": "Annals of Pharmacotherapy",
+   "citations": 0,
+   "pmid": "41711121",
+   "doi": "10.1177/10600280261422237",
+   "url": "https://doi.org/10.1177/10600280261422237",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Reply to the Infectious Diseases Society of America (IDSA) position statement",
+   "authors": "BE Jones, JM Ramírez",
+   "year": 2026,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "41738267",
+   "doi": "10.1093/ajrccm/aamag074",
+   "url": "https://doi.org/10.1093/ajrccm/aamag074",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Using a large language model artificial intelligence agent to improve the efficiency of clinical quality measure evidence evaluation: a case study",
+   "authors": "J Geppert, BE Jones, J Bellay, G Bryan",
+   "year": 2026,
+   "venue": "BMJ Health & Care Informatics",
+   "citations": 0,
+   "pmid": "42020095",
+   "doi": "10.1136/bmjhci-2025-101621",
+   "url": "https://doi.org/10.1136/bmjhci-2025-101621",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "The Next Generation of Quality Measurement: Development and Evaluation of an Electronic Diagnostic Quality Measure in Pneumonia",
+   "authors": "LD Visnovsky, B Kent, ED Rutter, JM Butler, AB Chapman, MM Jones, ..., BE Jones",
+   "year": 2026,
+   "venue": "The Joint Commission Journal on Quality and Patient Safety",
+   "citations": 0,
+   "pmid": "42586928",
+   "doi": "10.1016/j.jcjq.2026.07.002",
+   "url": "https://doi.org/10.1016/j.jcjq.2026.07.002",
+   "author_position": "last",
+   "source": "openalex"
+  },
+  {
+   "title": "How to use Quality Improvement to enhance the portfolio for promotion and tenure in Academic Pulmonary, Critical Care and Sleep Medicine",
+   "authors": "DP Albon, SP Giovanni, BE Jones, JW McCallister, R Nahar, C Rochester, ..., KA Artis",
+   "year": 2026,
+   "venue": "ATS Scholar",
+   "citations": 0,
+   "pmid": "43016335",
+   "doi": "10.1093/atsscholar/aapag070",
+   "url": "https://doi.org/10.1093/atsscholar/aapag070",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Incorporating social determinants of health into transmission modeling of COVID-19 vaccine in the US: a scoping review",
+   "authors": "KNC Duong, DT Nguyen, W Kategeaw, X Liang, W Khaing, LD Visnovsky, ..., N Chaiyakunapruk",
+   "year": 2024,
+   "venue": "The Lancet Regional Health - Americas",
+   "citations": 0,
+   "pmid": "38948323",
+   "doi": "10.1016/j.lana.2024.100806",
+   "url": "https://doi.org/10.1016/j.lana.2024.100806",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "In Pursuit of Excellence: The Past, Present, and Future of Quality Improvement in Pneumonia",
+   "authors": "BE Jones, LD Visnovsky, GW Ruhnke, ML Metersky",
+   "year": 2026,
+   "venue": "Clinics in Chest Medicine",
+   "citations": 0,
+   "pmid": "42203424",
+   "doi": "10.1016/j.ccm.2025.12.015",
+   "url": "https://doi.org/10.1016/j.ccm.2025.12.015",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Reply to Smith et al., Salton et al., Smit et al., and Kraft and Despotovic",
+   "authors": "BE Jones, JM Ramírez",
+   "year": 2026,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "41738273",
+   "doi": "10.1093/ajrccm/aamag073",
+   "url": "https://doi.org/10.1093/ajrccm/aamag073",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Pneumonia Reimagined: Host, Microbe, and the Shifting Landscape of Disease",
+   "authors": "CI Pickens, BE Jones, CSD Cruz",
+   "year": 2026,
+   "venue": "Clinics in Chest Medicine",
+   "citations": 0,
+   "pmid": "42203430",
+   "doi": "10.1016/j.ccm.2026.03.001",
+   "url": "https://doi.org/10.1016/j.ccm.2026.03.001",
+   "author_position": "middle",
+   "source": "openalex"
+  },
+  {
+   "title": "Diagnostic uncertainty in severe pneumonia: how much can bronchoscopy refine our gestalt?",
+   "authors": "BE Jones, TR Ju",
+   "year": 2026,
+   "venue": "Annals of the American Thoracic Society",
+   "citations": 0,
+   "pmid": "42296379",
+   "doi": "10.1093/annalsats/aaoag156",
+   "url": "https://doi.org/10.1093/annalsats/aaoag156",
+   "author_position": "first",
+   "source": "openalex"
+  },
+  {
+   "title": "Digging deeper, not digging in: can adversarial collaboration bring us closer to optimal antibiotic decisions in sepsis?",
+   "authors": "MA Christensen, BE Jones",
+   "year": 2026,
+   "venue": "American Journal of Respiratory and Critical Care Medicine",
+   "citations": 0,
+   "pmid": "42423297",
+   "doi": "10.1093/ajrccm/aamag355",
+   "url": "https://doi.org/10.1093/ajrccm/aamag355",
+   "author_position": "last",
+   "source": "openalex"
+  }
+ ],
+ "dropped": [
+  {
+   "title": "Is the Renin-Angiotensin-Aldosterone System Involved in the Sodium Retention in the Nephrotic Syndrome?",
+   "year": 2008,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "Spread of herpes simplex virus type 1 in the central nervous system during experimentally reactivated encephalitis",
+   "year": 1990,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "1310. Provider and Facility Variation in Empiric Broad-Spectrum Antibiotic Use for Hospitalization Pneumonia: A Mixed Methods Study of Veterans Affairs Facilities",
+   "year": 2021,
+   "why": "conference abstract"
+  },
+  {
+   "title": "Is renal lithium clearance altered in essential hypertension?",
+   "year": 1989,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "208. Trends in Antibiotic Prescribing for Acute Respiratory Tract Infections and Implementation of a Provider-Directed Intervention Within the Veterans Affairs Healthcare System (VA)",
+   "year": 2018,
+   "why": "conference abstract"
+  },
+  {
+   "title": "Electronic screening tool for pneumonia: Performance and utilization",
+   "year": 2012,
+   "why": "conference abstract"
+  },
+  {
+   "title": "12. Development of Provider-Specific Antibiotic Prescribing Feedback for Inpatient Antibiotic Stewardship Programs in Veterans Affairs (VA) Facilities (ASP)",
+   "year": 2021,
+   "why": "conference abstract"
+  },
+  {
+   "title": "2148. 100 Years of Sepsis: Using Topic Modeling to Understand Historical Themes Surrounding Sepsis",
+   "year": 2018,
+   "why": "conference abstract"
+  },
+  {
+   "title": "Impact of an electronic decision support tool on outcomes for emergency department patients with pneumonia",
+   "year": 2013,
+   "why": "conference abstract"
+  },
+  {
+   "title": "Announcement",
+   "year": 2008,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "P-1300. Themes to Support Identification of Emerging Infections Diseases",
+   "year": 2025,
+   "why": "conference abstract"
+  },
+  {
+   "title": "P-1621. Effectiveness of Mobile Vaccine Clinics on COVID-19 Vaccination Uptake in the United States: Real-world Outcomes Study",
+   "year": 2026,
+   "why": "conference abstract"
+  },
+  {
+   "title": "eCURB outperforms CURB-65 and A-DROP for predicting 30-day mortality in pneumonia",
+   "year": 2012,
+   "why": "conference abstract"
+  },
+  {
+   "title": "Developing hospital admission criteria for electronic pneumonia decision support",
+   "year": 2012,
+   "why": "conference abstract"
+  },
+  {
+   "title": "71. Observer accuracy and agreement in the detection of segmental defects on lung scans",
+   "year": 1992,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "Relationship between Arterial Blood Pressure and Dietary Sodium Intake in Essential Hypertension and in Normotensive Subjects",
+   "year": 1981,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "Is the Renin-Angiotensin-Aldosterone System Involved in Sodium Retention of the Nephrotic Syndrome?",
+   "year": 1981,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "Subject Index, Vol. 39, 1985",
+   "year": 2008,
+   "why": "pre-2009 work by another B. Jones (nephrology, virology, nuclear medicine)"
+  },
+  {
+   "title": "1875. How Many Different Antimicrobial Regimens Are There and Which Are Emerging and Declining?",
+   "year": 2018,
+   "why": "conference abstract"
+  },
+  {
+   "title": "1825. Electronic Measure of Unnecessary Antimicrobial Use in US Veterans Affairs Medical Centers",
+   "year": 2018,
+   "why": "conference abstract"
+  },
+  {
+   "title": "Modifying ICD-0-CM coding of secondary diagnoses to improve risk adjustment of inpatient mortality rates",
+   "year": 2009,
+   "why": "no venue"
+  },
+  {
+   "title": "2218. Feasibility of Automated Prediction of Drug Resistance in Pneumonia in the Veteran Population.",
+   "year": 2019,
+   "why": "conference abstract"
+  },
+  {
+   "title": "11. Electronic Surveillance Criteria for Non-Ventilator HAP: Empiric testing and Chart Review at Veterans Affairs Facilities",
+   "year": 2021,
+   "why": "conference abstract"
+  },
+  {
+   "title": "244. Bacterial co-infection in COVID-19: an analysis of a National Cohort of Hospitalized U.S. Veterans",
+   "year": 2022,
+   "why": "conference abstract"
+  },
+  {
+   "title": "787. Predictors of Co-infection with Multidrug Resistant Organisms among Hospitalized Patients with COVID-19: An Exploratory Analysis",
+   "year": 2022,
+   "why": "conference abstract"
+  },
+  {
+   "title": "296. SARS-CoV-2 Illness Severity and Early Hospitalization Outcomes in a Multicenter Prospective Cohort Study Among Veterans",
+   "year": 2022,
+   "why": "conference abstract"
+  },
+  {
+   "title": "CO14 Disparities in COVID-19 Related Outcomes in the United States By Race and Ethnicity: An Umbrella Review of Meta-Analyses",
+   "year": 2023,
+   "why": "conference abstract"
+  },
+  {
+   "title": "EPH123 Incorporating Social Determinants of Health Into Transmission Modeling of COVID-19 Vaccine in the US: A Scoping Review",
+   "year": 2024,
+   "why": "conference abstract"
+  },
+  {
+   "title": "P-1917. Hospital-Acquired Infections and Their Impact on Length of Stay for Veterans with COVID-19: A Nationwide Cohort Study",
+   "year": 2025,
+   "why": "conference abstract"
+  },
+  {
+   "title": "C28-20 Empiric Antibiotic Strategies and 30-Day Mortality for Patients With Community-Acquired Pneumonia: A Decision Tree Analysis of 124 U.S. Veterans Affairs Medical Centers",
+   "year": 2026,
+   "why": "conference abstract"
+  },
+  {
+   "title": "C28-18 Ten-Year Trends in Corticosteroid Use for Severe Community-Acquired Pneumonia: A National Mixed-Methods Analysis of Veteran Affairs Medical Centers",
+   "year": 2026,
+   "why": "conference abstract"
+  },
+  {
+   "title": "Pneumonia",
+   "year": 2026,
+   "why": "front matter"
+  }
+ ],
+ "grants": [
+  {
+   "title": "Leveraging pandemic practice changes to optimize evidence-based pneumonia care",
+   "number": "I01HX003500",
+   "role": "PI",
+   "funder": "VA HSR&D (IIR)",
+   "org": "VA Salt Lake City Health Care System",
+   "years": "2023-2026"
+  },
+  {
+   "title": "Diagnostic performance feedback for emergency department patients admitted with pneumonia",
+   "number": "",
+   "role": "PI",
+   "funder": "Gordon and Betty Moore Foundation",
+   "org": "University of Utah",
+   "years": "2020-2020"
+  },
+  {
+   "title": "Understanding and Improving Decision-making in Pneumonia with Informatics",
+   "number": "IK2HX001908",
+   "role": "PI",
+   "funder": "VA HSR&D Career Development Award",
+   "org": "VA Salt Lake City Health Care System",
+   "years": "2017-2022"
+  }
+ ],
+ "grants_note": "VA awards from NIH RePORTER (Barbara Ellen Jones, VA Salt Lake City). Other Barbara Jones PIs (McGill, Community Health Awareness Group) excluded. Moore Foundation grant from a University of Utah news post (Nov 2020); its title is paraphrased and its end year is not public.",
+ "disambiguation_notes": [
+  "Papers from OpenAlex author A5001548889 (and its duplicate A5108940548). Pre-2009 works attached to that profile are by other B. Jones authors and are dropped.",
+  "Conference abstracts are dropped.",
+  "OpenAlex citation counts run lower than Google Scholar's."
+ ]
+}
